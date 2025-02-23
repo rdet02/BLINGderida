@@ -61,6 +61,7 @@ while True:
 
     model_response = response.text
     print(f'Bot: {model_response}\n')
+    print("hello everyone")
 
  
     history.append({"role": "user", "parts": [user_input]})
