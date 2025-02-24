@@ -1,5 +1,5 @@
 <body>
-    <h1>Be The Leader In The Game</h1>
+    <h1>Be the Leader In the Game</h1>
     <h2>Créateurs / Programmeurs :</h2>
     <ul> 
    <li><a href="https://www.linkedin.com/in/abdelbasset-bouziti-281507334/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="20" alt="Icon" /></image>Abdelbasset bouziti</a></li>
