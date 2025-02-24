@@ -5,8 +5,8 @@ import tkinter as tk
 from tkinter import scrolledtext
 from tkinter import messagebox
 
-HOST = 'IP_ADRESS' # Enter the IP address of the server
-PORT = 1029
+HOST = '100.88.217.67' # Enter the IP address of the server
+PORT = 64131
 
 DARK_GREY = '#121212'
 MEDIUM_GREY = '#1F1B24'
