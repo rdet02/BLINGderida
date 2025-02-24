@@ -2,8 +2,8 @@
 import socket
 import threading
 
-HOST = 'IP_ADRESS' # Enter the IP address of the server
-PORT = 1029 # You can use any port between 0 to 65535
+HOST = '100.88.217.67' # Enter the IP address of the server
+PORT = 64131 # You can use any port between 0 to 65535
 LISTENER_LIMIT = 5
 active_clients = [] # List of all currently connected users
 
