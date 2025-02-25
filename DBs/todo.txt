@@ -1,10 +1,4 @@
-1- Planning
-    # dis
-    # Merise
-2- Creating
-    # MySql
-3- Connection
-    # Server Hosting
-    # API
-        - Get/Post/Options
-        
+1- Planning 
+    - Chaier de charge
+    - Database
+        - Merise 
